@@ -32,7 +32,7 @@ public class StudentController {
 	@Value("${cloud.aws.end-point.uri}")
 	private String awsSQSStandardQueue;
 
-	@GetMapping
+	@RequestMapping("/sendMessageToSQS")
 	public void sendMessage() {
 		queueMessagingTemplate.send(awsSQSStandardQueue, MessageBuilder.withPayload("Hi I'm excited to send message to AWS SQS").build());
 	}
