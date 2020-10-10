@@ -2,6 +2,9 @@
 In this application, I have created publisher subscriber application using Amazon Simple Queue Service and SpringBoot app.
 
 ## Major steps ##
+In my case I have added new queues by following the description as described below:
+<img src="img/AWS-queue-info.png"/>
+
 #### Goto AWS console ####
 <img src="img/aws-1.png"/>
 
