@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/awssqsdb
+    username: root
+    password: null
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+
+
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: hQJ7Xg2g28CU2X38YCo3lbpWZk4h2FgxXmalkICf
+      secret-key: FwoGZXIvYXdzEB8aDG1wGJf8bZN8IDu7JCLDATxpdm/oYew9E1+hU6zDgOOwxqhuxTxVkXMHWIC89HTYAY6VZdcKxf4Hkb+Y/LYmDARe4J14jY7K1RCrKk4hmJ4AHLV6rVt2w5c7ABq4B0Ym+wKpMRrycDBWD42c5SO6P/rUgM2EkRpWmdOWoCD74iCY8346NUuhc5I+j6HrhKhq1V1+TcSYub+fsdP+G82CyHMLlTSHHQPRVLxDA7Tqw/u7Zz5MTQ5CEMGV3G5gWuxPYNfWY+WvYkWhiXIGcGTsor8b3Si2qaLvBTItJhFRYlTzT6Xh7kot/XvrlX0ftShmHvSw2XJchY5ylpQQn3WRJDSdKe7kLRWj
+    end-point:
+      uri:  https://sqs.us-east-1.amazonaws.com/575262525146/request.fifo  

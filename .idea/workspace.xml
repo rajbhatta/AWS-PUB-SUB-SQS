@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73ea014e-4b2a-49d2-a3e2-98f1efa5393f" name="Default Changelist" comment="" />
+    <list default="true" id="73ea014e-4b2a-49d2-a3e2-98f1efa5393f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AWS-SQS-SPRINGBOOT-JPA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Aws-pub-sub-sqs-springboot-jpa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/Dockerfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.mvn/wrapper/MavenWrapperDownloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/src/main/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/src/test/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/test/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,33 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="24" />
-    <option name="width" value="1575" />
-    <option name="height" value="801" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AWS-SQS-SPRINGBOOT-JPA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AWS-SQS-SPRINGBOOT-JPA" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1ifi4AuOlpSFJ5p3oZfdcZSztgD" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -71,46 +78,22 @@
       <updated>1575520123141</updated>
       <workItem from="1575520124957" duration="40000" />
       <workItem from="1575520232025" duration="48000" />
+      <workItem from="1602304855820" duration="102000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
