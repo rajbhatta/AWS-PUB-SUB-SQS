@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73ea014e-4b2a-49d2-a3e2-98f1efa5393f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AWS-SQS-SPRINGBOOT-JPA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Aws-pub-sub-sqs-springboot-jpa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/Dockerfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.mvn/wrapper/MavenWrapperDownloader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/src/main/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/bin/src/test/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/controller/StudentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/java/com/raj/springapp/repository/StudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AwsSQSConsumerSprintBootJPA/src/test/java/com/raj/springapp/AwsSqsConsumerSprintBootJpaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +50,7 @@
       <workItem from="1575520124957" duration="40000" />
       <workItem from="1575520232025" duration="48000" />
       <workItem from="1602304855820" duration="102000" />
+      <workItem from="1602305899688" duration="339000" />
     </task>
     <servers />
   </component>
@@ -90,7 +62,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
